@@ -37,3 +37,9 @@
 .container__botao:checked~.lista-menu {
     display: block;
 }
+.lista-menu,
+.lista-menu__titulo {
+    padding: 1em;
+    background-color: var(--branco);
+    list-style: none;
+}
