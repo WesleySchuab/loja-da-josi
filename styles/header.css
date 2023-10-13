@@ -20,3 +20,9 @@
     top: 100%;
     width: 60vw;
 }
+
+/* Transormar os continer em flex itens para alinhas os icones */
+.container {
+    display: flex;
+    align-items: center;
+}
