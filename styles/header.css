@@ -30,3 +30,7 @@
     padding: 1em;
 }
 
+.container__botao{
+    display: none;
+}
+
