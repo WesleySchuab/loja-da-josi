@@ -21,8 +21,12 @@
     width: 60vw;
 }
 
-/* Transormar os continer em flex itens para alinhas os icones */
+/* Transormar os continer em flex itens para alinhas os icones na horizontal*/
 .container {
     display: flex;
     align-items: center;
 }
+.container__imagem {
+    padding: 1em;
+}
+
