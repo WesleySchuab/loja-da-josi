@@ -3,3 +3,7 @@
     --branco: #FFFFFF;
     --laranja: #EB9B00;
 }
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 16px;
+}
