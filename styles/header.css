@@ -33,4 +33,7 @@
 .container__botao{
     display: none;
 }
-
+/* ~ procura um outro elemento que seguido do anterior */
+.container__botao:checked~.lista-menu {
+    display: block;
+}
