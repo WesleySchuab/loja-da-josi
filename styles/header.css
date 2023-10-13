@@ -1,3 +1,4 @@
+
 .cabeçalho {
     background-color: var(--branco);
     display: flex;
@@ -20,3 +21,37 @@
     top: 100%;
     width: 60vw;
 }
+/* Transormar os continer em flex itens para alinhas os icones na horizontal*/
+.container {
+    display: flex;
+    align-items: center;
+}
+.container__imagem {
+    padding: 1em;
+}
+
+.container__botao{
+    display: none;
+}
+/* ~ procura um outro elemento que seguido do anterior */
+.container__botao:checked~.lista-menu {
+    display: block;
+}
+.lista-menu,
+.lista-menu__titulo {
+    padding: 1em;
+    background-color: var(--branco);
+    list-style: none;
+}
+.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+}
+.lista-menu__link {
+    background: var(--azul-degrade);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform:uppercase;
+}
+>>>>>>> 5a75e6bac7e0969c5d0a6445d4fcb0bdb7c148f6
