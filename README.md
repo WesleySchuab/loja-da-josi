@@ -1,2 +1,1 @@
-# loja-da-josi
-Site criado para estudo para no futuro atender um cliente 
+Site criado para o trabalho que tenho que entregar na faculdade e talvez no futuro atender um cliente

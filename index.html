@@ -6,10 +6,16 @@
     <!-- Qual Aparelho e qual a largura com zoom 0 -->
     <meta name="viewport" content="width = device-width, initial-scale=1.0">
     <title>Loja da josi</title>
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css">
+
     <header class="cabeçalho">
         <div class="container"> 
+
+            <input type="checkbox" id="menu" class="container__botao">
+            <label for="menu"><!-- span vira uma imagem -->
+                <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+            </label>
+
             <ul class="lista-menu">
                 <li class="lista-menu__titulo">
                     <a href="#" class="lista-menu__link">Categoria</a>
@@ -30,6 +36,16 @@
                     <a href="#" class="lista-menu__link">alguma coisa</a>
                 </li>
             </ul>
+
         </div>
+
+            <div class="container">
+                <a href="#"><img src="img/Favoritos.svg" alt="Meus Favoritos" class="container__imagem"></a>
+                <a href="#"><img src="img/Compras.svg" alt="Carrinho de compra" class="container__imagem"></a>
+                <a href="#"><img src="img/Usuario.svg" alt="Meu perfil" class="container__imagem"></a>
+
+            </div>
+        </div>
+
     </header>
 </body>
