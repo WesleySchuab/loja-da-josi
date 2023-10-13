@@ -1,0 +1,8 @@
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Para colocar o menu abaixo do icone libera opção de colocar outros atributos como top left*/
+    position: relative;
+}
