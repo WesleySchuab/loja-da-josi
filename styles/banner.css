@@ -1,0 +1,7 @@
+.banner{
+    background: var(--azul-degrade); 
+    color: var(--branco);
+    text-align: center;
+    /* "em" multiplca pelo valor padrão px  */
+    padding: 2.5em 2em;
+ }
