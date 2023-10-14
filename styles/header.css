@@ -1,11 +1,4 @@
-.cabeçalho__menu-hamburguer {
-    width: 24px;
-    height: 24px;
-    background-image: url("../img/Menu.svg");
-    display: inline-block;
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 .cabeçalho {
     background-color: var(--branco);
     display: flex;
@@ -14,14 +7,20 @@
     /* Para colocar o menu abaixo do icone libera opção de colocar outros atributos como top left*/
     position: relative;
 }
-
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    background-image: url("../img/Menu.svg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .lista-menu{
     display: none;
     position: absolute;
     top: 100%;
     width: 60vw;
 }
-
 /* Transormar os continer em flex itens para alinhas os icones na horizontal*/
 .container {
     display: flex;
@@ -55,3 +54,4 @@
     -webkit-text-fill-color: transparent;
     text-transform:uppercase;
 }
+>>>>>>> 5a75e6bac7e0969c5d0a6445d4fcb0bdb7c148f6
