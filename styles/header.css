@@ -54,4 +54,11 @@
     -webkit-text-fill-color: transparent;
     text-transform:uppercase;
 }
+@media screen and (min-width: 1024px) {
 
+    .container__titulo,
+    .container__titulo--negrito {
+        font-family: var(--fonte-secundario);
+        font-size: 60px;
+    }
+}
