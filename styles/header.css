@@ -65,6 +65,11 @@
 .opções {
     display: none;
 }
+.container__titulo {
+    font-weight: 400;
+    display: block;
+    display: none;
+}
 
 @media screen and (min-width: 1024px) {
 
@@ -114,4 +119,8 @@
     .opções__botão {
         display: none;
     } 
+    .container__imagem{
+        padding-left: 0.5em;
+        
+    }
 }
