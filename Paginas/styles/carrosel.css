@@ -71,13 +71,17 @@
 }
 
 .swiper-imagem {
-    width: 248px;
-    height: 449px;
+    width: 148px;
+    height: 349px;
 }
 
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
         font-size: 26px;
+    }
+    .swiper-imagem {
+        width: auto;
+        height: auto;
     }
 
     .swiper-pagination {
