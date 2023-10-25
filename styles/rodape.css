@@ -10,6 +10,9 @@ hr {
     display: none;
     list-style: none;
 }
+.sobre{
+    width: 100%;
+}
 @media screen and (min-width: 1024px) {
     .rodapé {
         display: flex;
@@ -36,5 +39,8 @@ hr {
 
     .rodapé__titulo {
         font-size: 24px;
+    }
+    .sobre{
+        width: 50%;
     }
 }
