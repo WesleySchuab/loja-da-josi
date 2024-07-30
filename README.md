@@ -1,5 +1,8 @@
 ## Loja da Josi - Projeto Final do Curso de Front-end
 ## Resumo
+Este projeto representa meu primeiro e-commerce, desenvolvido em 4 semanas durante o curso de Desenvolvimento Web. 
+---
+O objetivo principal era criar uma loja online simples e funcional, priorizando um design responsivo e uma boa experiência do usuário.
 Funcionalidades:
 * ** Design Responsivo: A interface se adapta perfeitamente a diferentes dispositivos (desktop, tablet, mobile).
 * ** Menu Hambúrguer: 
