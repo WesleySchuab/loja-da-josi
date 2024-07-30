@@ -14,8 +14,6 @@ Funcionalidades:
   <img src="https://github.com/user-attachments/assets/aa4293e1-9ae9-473c-a301-c3376e4415ee" alt="Loja da Josi">
 </div>
 
-Este repositório contém o código fonte do projeto "Loja da Josi", desenvolvido como trabalho final do curso de Front-end. O objetivo do projeto foi construir um site completo, desde a estrutura HTML até o design responsivo, utilizando as melhores práticas de desenvolvimento web.
-
 ### Habilidades Desenvolvidas
 * **HTML:** Estruturação da página, criação de elementos semânticos e acessibilidade.
 * **CSS:** Estilização completa do site, utilizando variáveis, flexbox, media queries e outros recursos.
