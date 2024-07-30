@@ -1,5 +1,11 @@
 ## Loja da Josi - Projeto Final do Curso de Front-end
-
+## Resumo
+Este site representa a interface front-end de um e-commerce desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas.
+---
+Construído em um curto prazo após o aprendizado inicial de HTML e JavaScript, este projeto demonstra a aplicação prática desses conhecimentos em um ambiente de desenvolvimento web real. 
+---
+A interface foi projetada para oferecer uma experiência de compra intuitiva e eficiente, utilizando as melhores práticas de design responsivo e acessibilidade.
+---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa4293e1-9ae9-473c-a301-c3376e4415ee" alt="Loja da Josi">
 </div>
