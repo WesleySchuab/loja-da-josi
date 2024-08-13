@@ -13,6 +13,10 @@ Funcionalidades:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa4293e1-9ae9-473c-a301-c3376e4415ee" alt="Loja da Josi">
 </div>
+### Versão Mobile
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5318dcb5-65e0-4a40-b1d0-c5d0caffdb12" alt="Loja da Josi Mobile">
+</div>
 
 ### Habilidades Desenvolvidas
 * **HTML:** Estruturação da página, criação de elementos semânticos e acessibilidade.
